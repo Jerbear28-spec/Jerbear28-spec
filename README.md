@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Configuring a Network Switch to Monitor All Traffic on my Home Network</b>
+- <b>Configuring a Network Switch to Monitor All Traffic on a Home Network</b>
   - [Monitoring Home Network Traffic](https://github.com/Jerbear28-spec/Network-Switch-Project.git)
 
 - <b>Microsoft Azure</b>
