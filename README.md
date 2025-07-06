@@ -12,7 +12,7 @@
   DNS Configuration 
 </h3>
 
-- [Disabling Access to Adult Websites using a Free Family-Friendly DNS Resolver](brokenlink.com)
+- [Disabling Access to Adult Websites using a Free Family-Friendly DNS Resolver](https://github.com/Jerbear28-spec/Adult-Content-Blocker.git)
 
 <h3>
   Microsoft Azure / Active Directory
