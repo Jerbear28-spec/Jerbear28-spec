@@ -6,7 +6,13 @@
   Home Network Security
 </h3>
 
-- [Configuring a Network Switch to Monitor All Traffic on a Home Network](https://github.com/Jerbear28-spec/Network-Switch-Project.git)
+- [Implementing a Network Switch to Monitor All Traffic on a Home Network](https://github.com/Jerbear28-spec/Network-Switch-Project.git)
+
+<h3>
+  DNS Configuration 
+</h3>
+
+- [Disabling Access to Adult Websites using a Family-Friendly DNS Resolver](brokenlink.com)
 
 <h3>
   Microsoft Azure / Active Directory
