@@ -13,5 +13,5 @@
   Microsoft Azure
 </h3>
 
-  - [Configuring On-premises Active Directory within Azure VMs](brokenlink.com)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jerbear28-spec/AD-Azure-Deployment.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](brokenlink.com)
