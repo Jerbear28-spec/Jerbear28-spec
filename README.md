@@ -3,14 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <h3>
-  Network Security
+  Home Network Security
 </h3>
 
-- <b>[Configuring a Network Switch to Monitor All Traffic on a Home Network](https://github.com/Jerbear28-spec/Network-Switch-Project.git)
-</b>
+- [Configuring a Network Switch to Monitor All Traffic on a Home Network](https://github.com/Jerbear28-spec/Network-Switch-Project.git)
 
 <h3>
   Microsoft Azure / Active Directory
 </h3>
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jerbear28-spec/AD-Azure-Deployment.git)
+  - [Configuring an Active Directory Domain within Azure Virtual Machines](https://github.com/Jerbear28-spec/AD-Azure-Deployment.git)
