@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerry, an <a href="https://linkedin.com/in/jerry-fricker">IT specialist.</a>☺</h1>
+<h1>Hi, I'm Jerry, an <a href="https://linkedin.com/in/jerry-fricker">IT Specialist.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
