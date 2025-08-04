@@ -15,7 +15,7 @@
 - [Disabling Access to Inappropriate Websites on a Home Network VIA DNS Filtering](https://github.com/Jerbear28-spec/Adult-Content-Blocker.git)
 
 <h3>
-  Microsoft Azure / Active Directory ☁️
+  Microsoft Azure/Active Directory ☁️
 </h3>
 
   - [Configuring an Active Directory Domain within Azure Virtual Machines](https://github.com/Jerbear28-spec/AD-Azure-Deployment.git)
